@@ -1,5 +1,5 @@
 # epoe
-This is an electronic poe buy Tony Makhubedu 
+This is an electronic poe by Tony Makhubedu 
 this will be cloud based app that will help in organisations to manage poe 
 
 #1 roles
